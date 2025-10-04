@@ -1,0 +1,162 @@
+[
+  {
+    "email_length": 245,
+    "num_links": 3,
+    "num_caps": 12,
+    "num_exclamation": 2,
+    "spam_score": 0.8,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 156,
+    "num_links": 1,
+    "num_caps": 2,
+    "num_exclamation": 0,
+    "spam_score": 0.2,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 89,
+    "num_links": 0,
+    "num_caps": 1,
+    "num_exclamation": 0,
+    "spam_score": 0.1,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 312,
+    "num_links": 8,
+    "num_caps": 25,
+    "num_exclamation": 5,
+    "spam_score": 0.95,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 178,
+    "num_links": 2,
+    "num_caps": 3,
+    "num_exclamation": 1,
+    "spam_score": 0.3,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 267,
+    "num_links": 6,
+    "num_caps": 18,
+    "num_exclamation": 4,
+    "spam_score": 0.85,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 134,
+    "num_links": 1,
+    "num_caps": 2,
+    "num_exclamation": 0,
+    "spam_score": 0.15,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 298,
+    "num_links": 7,
+    "num_caps": 22,
+    "num_exclamation": 6,
+    "spam_score": 0.9,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 201,
+    "num_links": 2,
+    "num_caps": 4,
+    "num_exclamation": 1,
+    "spam_score": 0.25,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 345,
+    "num_links": 9,
+    "num_caps": 30,
+    "num_exclamation": 8,
+    "spam_score": 0.98,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 123,
+    "num_links": 1,
+    "num_caps": 1,
+    "num_exclamation": 0,
+    "spam_score": 0.12,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 276,
+    "num_links": 5,
+    "num_caps": 16,
+    "num_exclamation": 3,
+    "spam_score": 0.78,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 167,
+    "num_links": 2,
+    "num_caps": 3,
+    "num_exclamation": 0,
+    "spam_score": 0.22,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 289,
+    "num_links": 6,
+    "num_caps": 20,
+    "num_exclamation": 4,
+    "spam_score": 0.82,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 145,
+    "num_links": 1,
+    "num_caps": 2,
+    "num_exclamation": 0,
+    "spam_score": 0.18,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 234,
+    "num_links": 4,
+    "num_caps": 14,
+    "num_exclamation": 3,
+    "spam_score": 0.75,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 189,
+    "num_links": 2,
+    "num_caps": 5,
+    "num_exclamation": 1,
+    "spam_score": 0.28,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 321,
+    "num_links": 8,
+    "num_caps": 28,
+    "num_exclamation": 7,
+    "spam_score": 0.92,
+    "is_spam": "spam"
+  },
+  {
+    "email_length": 112,
+    "num_links": 0,
+    "num_caps": 1,
+    "num_exclamation": 0,
+    "spam_score": 0.08,
+    "is_spam": "ham"
+  },
+  {
+    "email_length": 256,
+    "num_links": 5,
+    "num_caps": 15,
+    "num_exclamation": 2,
+    "spam_score": 0.72,
+    "is_spam": "spam"
+  }
+]

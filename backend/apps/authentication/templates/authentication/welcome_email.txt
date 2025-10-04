@@ -1,0 +1,32 @@
+Welcome to {{ site_name }}!
+
+Hello {{ user.first_name|default:user.username }},
+
+Welcome to {{ site_name }}! We're excited to have you join our decentralized data marketplace community.
+
+What you can do with {{ site_name }}:
+✓ Upload and monetize your datasets
+✓ Purchase high-quality datasets for your projects
+✓ Train ML models directly on the platform
+✓ Connect your Web3 wallet for seamless transactions
+✓ Earn NeuroCoin (NRC) tokens for your contributions
+✓ Access decentralized storage via IPFS
+
+Ready to get started? Visit: {{ login_url }}
+
+Next Steps:
+1. Complete your profile: Add your bio, avatar, and professional information
+2. Connect your wallet: Link your MetaMask or other Web3 wallet for transactions
+3. Explore datasets: Browse our marketplace to find datasets for your projects
+4. Upload your first dataset: Share your data and start earning
+
+If you have any questions or need help getting started, don't hesitate to reach out to our support team.
+
+Happy data trading!
+
+Best regards,
+The {{ site_name }} Team
+
+---
+This is an automated email. Please do not reply to this message.
+© 2024 {{ site_name }}. All rights reserved.

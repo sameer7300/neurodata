@@ -1,0 +1,21 @@
+# Development-specific dependencies
+-r requirements.txt
+
+# Testing
+pytest-xdist==3.5.0
+pytest-mock==3.12.0
+coverage==7.3.2
+django-coverage-plugin==3.1.0
+
+# Code Quality
+pre-commit==3.6.0
+mypy==1.7.1
+django-stubs==4.2.7
+djangorestframework-stubs==3.14.5
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+
+# Development Server
+django-livereload-server==0.4

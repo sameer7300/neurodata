@@ -1,0 +1,162 @@
+[
+  {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1500,
+    "age": 10,
+    "garage": 1,
+    "price": 250000
+  },
+  {
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 2000,
+    "age": 5,
+    "garage": 2,
+    "price": 350000
+  },
+  {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 1200,
+    "age": 15,
+    "garage": 1,
+    "price": 180000
+  },
+  {
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "sqft": 2800,
+    "age": 2,
+    "garage": 2,
+    "price": 450000
+  },
+  {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1600,
+    "age": 8,
+    "garage": 1,
+    "price": 275000
+  },
+  {
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "sqft": 1800,
+    "age": 12,
+    "garage": 2,
+    "price": 320000
+  },
+  {
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1100,
+    "age": 20,
+    "garage": 1,
+    "price": 165000
+  },
+  {
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "sqft": 3200,
+    "age": 1,
+    "garage": 3,
+    "price": 550000
+  },
+  {
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "sqft": 1700,
+    "age": 7,
+    "garage": 2,
+    "price": 295000
+  },
+  {
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 2200,
+    "age": 4,
+    "garage": 2,
+    "price": 385000
+  },
+  {
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "sqft": 800,
+    "age": 25,
+    "garage": 0,
+    "price": 125000
+  },
+  {
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "sqft": 2500,
+    "age": 6,
+    "garage": 2,
+    "price": 420000
+  },
+  {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1400,
+    "age": 18,
+    "garage": 1,
+    "price": 235000
+  },
+  {
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "sqft": 2100,
+    "age": 3,
+    "garage": 2,
+    "price": 375000
+  },
+  {
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1300,
+    "age": 11,
+    "garage": 1,
+    "price": 195000
+  },
+  {
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "sqft": 3800,
+    "age": 1,
+    "garage": 3,
+    "price": 650000
+  },
+  {
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "sqft": 1350,
+    "age": 22,
+    "garage": 1,
+    "price": 210000
+  },
+  {
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 1900,
+    "age": 9,
+    "garage": 2,
+    "price": 340000
+  },
+  {
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "sqft": 2700,
+    "age": 5,
+    "garage": 2,
+    "price": 475000
+  },
+  {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 950,
+    "age": 30,
+    "garage": 0,
+    "price": 145000
+  }
+]

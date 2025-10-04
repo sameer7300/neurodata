@@ -1,0 +1,88 @@
+{
+  "name": "neurodata-smart-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for NeuroData decentralized data marketplace",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "test:coverage": "hardhat coverage",
+    "test:gas": "REPORT_GAS=true hardhat test",
+    "deploy:local": "hardhat run deploy/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run deploy/deploy.js --network sepolia",
+    "deploy:mumbai": "hardhat run deploy/deploy.js --network mumbai",
+    "deploy:bsc-testnet": "hardhat run deploy/deploy.js --network bscTestnet",
+    "deploy:mainnet": "hardhat run deploy/deploy.js --network mainnet",
+    "deploy:polygon": "hardhat run deploy/deploy.js --network polygon",
+    "deploy:bsc": "hardhat run deploy/deploy.js --network bsc",
+    "verify:sepolia": "hardhat verify --network sepolia",
+    "verify:mumbai": "hardhat verify --network mumbai",
+    "verify:mainnet": "hardhat verify --network mainnet",
+    "node": "hardhat node",
+    "console": "hardhat console",
+    "flatten": "hardhat flatten",
+    "size": "hardhat size-contracts",
+    "clean": "hardhat clean",
+    "format": "prettier --write 'contracts/**/*.sol'",
+    "lint": "solhint 'contracts/**/*.sol'",
+    "lint:fix": "solhint 'contracts/**/*.sol' --fix",
+    "analyze": "slither .",
+    "mythril": "myth analyze contracts/",
+    "docs": "hardhat docgen"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "smart-contracts",
+    "solidity",
+    "defi",
+    "marketplace",
+    "data",
+    "nft",
+    "erc20"
+  ],
+  "author": "NeuroData Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
+    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^1.1.1",
+    "@openzeppelin/hardhat-upgrades": "^1.28.0",
+    "@typechain/ethers-v5": "^10.2.1",
+    "@typechain/hardhat": "^6.1.6",
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^20.4.5",
+    "chai": "^4.3.7",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.17.1",
+    "hardhat-contract-sizer": "^2.10.0",
+    "hardhat-gas-reporter": "^1.0.9",
+    "prettier": "^3.0.0",
+    "prettier-plugin-solidity": "^1.1.3",
+    "solhint": "^3.6.2",
+    "solidity-coverage": "^0.8.4",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.3.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts-upgradeable": "^4.9.3"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neurodata/smart-contracts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neurodata/smart-contracts/issues"
+  },
+  "homepage": "https://neurodata.io"
+}
